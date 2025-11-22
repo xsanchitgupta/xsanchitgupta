@@ -1,79 +1,64 @@
-👋 Hi, I'm Sanchit
-Full-Stack Developer | React & Node.js | UI/UX Lover | Problem Solver
+# 👋 Hi, I'm Sanchit  
 
-🚀 I'm a developer who loves building fast, clean, and scalable web apps.
-I focus on modern front-end architectures, pixel-perfect UI, and writing code that feels good to maintain.
+<h3 align="center">🌸 Java DSA Learner • Web Dev Explorer • Beginner Developer 🌸</h3>
 
-🌟 About Me
+---
 
-🎯 Currently working on: Full-stack web apps & automation tools
+## 🌈 About Me  
+I'm a student exploring **Data Structures & Algorithms in Java** and learning **web development** at the same time.  
+I enjoy building clean and minimal UIs, solving problems, and learning new tech slowly but consistently.
 
-🔭 Learning: Next.js, Supabase & Cloud deployments (Vercel/AWS)
+---
 
-🧩 Interested in: System design, UI engineering, and DevOps basics
+## 🌱 Currently Learning  
+### 💻 **DSA in Java**
+- Arrays & Strings  
+- Recursion  
+- Searching & Sorting  
+- Time & Space Complexity  
+- LinkedList, Stack, Queue  
 
-🎨 Fun fact: I can turn any messy UI into something beautiful
+### 🌐 **Web Development**
+- HTML & CSS  
+- JavaScript  
+- React (basics)  
+- Git, GitHub  
+- Deploying on Vercel  
 
-💬 Ask me about: React, Tailwind, JavaScript, APIs, Firebase, Project Structure
+---
 
-🛠️ Tech Stack
-Frontend
-<div>
+## 🛠️ Tech & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode" />
+</p>
 
-⚛️ React, Next.js
+---
 
-🎨 Tailwind CSS, Shadcn UI
+## 📂 Projects I'm Building  
+- Mini portfolio website  
+- Java DSA practice repo  
+- Small JavaScript utilities  
+- Beginner React components  
 
-🧩 HTML5, CSS3, JavaScript (ES6+)
+---
 
-</div>
-Backend
-<div>
+## 📈 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchitGuptaa&show_icons=true&theme=rose_pine" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitGuptaa&layout=compact&theme=rose_pine" height="150" />
+</p>
 
-🟢 Node.js, Express
+---
 
-🔥 Firebase (Auth, Firestore)
+## ✨ Quote I Believe In  
+> *“Consistency is more important than intensity.”*
 
-🐘 Supabase / PostgreSQL
+---
 
-</div>
-Tools & Platforms
-<div>
+## 📬 Contact  
+📧 Email: **xsanchitguptaa@gmail.com**  
+🔗 LinkedIn: (add link here)
 
-🧰 Git, GitHub
+---
 
-🚀 Vercel, Netlify
-
-📦 npm, pnpm
-
-🐳 Docker (beginner)
-
-</div>
-📈 GitHub Stats
-
-🏆 Featured Projects
-🔹 Student Academic Project Monitoring System — Acadex
-
-A full-stack system to track academic project progress with dashboards, authentication, and file management.
-
-🔹 Personal Portfolio
-
-A modern React + Tailwind portfolio showcasing my projects, work, and skills.
-
-📬 Connect With Me
-<div align="left">
-
-📧 Email: xsanchitguptaa@gmail.com
-
-💼 LinkedIn: Your LinkedIn
-
-🌐 Portfolio: coming soon
-
-</div>
-✨ Quote I Live By
-
-“Break the pattern today, else the loop will repeat tomorrow!” 
-
-⭐ Support
-
-If you like my work, consider giving a ⭐ to my repositories!
+⭐ *If you like my work, consider giving a star!*  
